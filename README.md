@@ -1,5 +1,7 @@
 # birdSpeciesModels
-This repository holds the code for a machine learning term project for UNC's STOR 565.
+This repository holds the code for a term project for UNC's mixed Undergrad/Grad Machine learning class (STOR 565).
+
+This project aimed to develop and compare models for predicting bird species based on images fed into the model. We used models such as Support Vector Machines, Random Forests, and Neural Networks; along with a number of supporting methods.
 
 Within the repository you can find the project proposal and final presentation, as well as the EDA and models we used in our project.
 
